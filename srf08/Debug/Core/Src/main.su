@@ -1,0 +1,5 @@
+../Core/Src/main.cpp:55:6:void SRF08_ChangeI2CAddress(uint8_t)	32	static
+../Core/Src/main.cpp:76:10:uint16_t SRF08_GetDistance()	24	static
+../Core/Src/main.cpp:100:5:int main()	24	static
+../Core/Src/main.cpp:153:6:void SystemClock_Config()	80	static
+../Core/Src/main.cpp:200:6:void Error_Handler()	4	static,ignoring_inline_asm

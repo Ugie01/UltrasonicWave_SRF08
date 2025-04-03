@@ -1,0 +1,5 @@
+../Core/Src/main.cpp:55:6:void SRF08_ChangeI2CAddress(uint8_t)	4
+../Core/Src/main.cpp:76:10:uint16_t SRF08_GetDistance()	1
+../Core/Src/main.cpp:100:5:int main()	1
+../Core/Src/main.cpp:153:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:200:6:void Error_Handler()	1
